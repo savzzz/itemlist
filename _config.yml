@@ -24,7 +24,7 @@ description: >-
   An expanded item list for TwitchToolkit that supports ToolkitUtils' shop.
 
 email: 'daddy@savzzzz.com'
-baseurl: 'savzlist' # the subpath of your site, e.g. /blog
+baseurl: '/savzlist' # the subpath of your site, e.g. /blog
 url: 'savzzzz.com' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 'savzsz'
 github_username: 'savzzz'
