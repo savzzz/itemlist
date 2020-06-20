@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "7.2.1"
+  },
+  {
+    "author": "NotooShabby",
+    "name": "Awesome Inventory",
+    "steamId": "2050289408",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.3.90"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Command Palette",
+    "steamId": "2073966033",
+    "version": "1.7.104"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.16.131"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "0",
+    "version": "4.0.7.0"
+  },
+  {
+    "author": "Neptimus7",
+    "name": "Progress Renderer",
+    "steamId": "2010777010",
+    "version": "1.1"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": "1508850027",
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": "735106432",
+    "version": "1.1.9"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "0.4.1.0"
+  },
+  {
+    "author": "zymex",
+    "name": "No more sleeping Z's",
+    "steamId": "2024071585",
+    "version": null
+  },
+  {
+    "author": "user19990313",
+    "name": "RuntimeGC",
+    "steamId": "2046596586",
+    "version": "20.0.15.1"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": "1504723424",
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": "761421485",
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "0.1.1.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": "761219125",
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Minimap",
+    "steamId": "1662119905",
+    "version": "1.3.450"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.0.1.10"
+  },
+  {
+    "author": "notfood",
+    "name": "ResearchPal",
+    "steamId": "946390822",
+    "version": "1.1.3.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "InsertKey",
+    "name": "ItemListSelector",
+    "steamId": "1522414793",
+    "version": null
+  },
+  {
+    "author": "Indeed",
+    "name": "Stack XXL",
+    "steamId": "826366050",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Daniledman",
+    "name": "Combat Update 1.1",
+    "steamId": "2014429481",
+    "version": null
+  },
+  {
+    "author": "Moloy559",
+    "name": "Moloy Traits",
+    "steamId": "1777036482",
+    "version": null
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Hob Took",
+    "name": "Mortar Accuracy",
+    "steamId": "1729446857",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sharpedo-Dressed Man",
+    "name": "Kenshi Hiver Race",
+    "steamId": "1840737944",
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jaffer Roshak",
+    "name": "Avali Race Mod - 1.6.1",
+    "steamId": "1034393407",
+    "version": null
+  },
+  {
+    "author": "Sharpedo-Dressed Man",
+    "name": "Kenshi Skeleton Race",
+    "steamId": "1841876651",
+    "version": null
+  },
+  {
+    "author": "Diana(Kitty)",
+    "name": "Orassans",
+    "steamId": "1541519487",
+    "version": null
+  }
+]
