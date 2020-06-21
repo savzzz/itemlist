@@ -2990,7 +2990,7 @@
 	},
 	{
 		"abr": "avali",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Avali"
 	},
@@ -3266,7 +3266,7 @@
 	},
 	{
 		"abr": "fogman",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Worker"
 	},
@@ -3278,7 +3278,7 @@
 	},
 	{
 		"abr": "fogmanprince",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Prince"
 	},
@@ -3290,7 +3290,7 @@
 	},
 	{
 		"abr": "fogmansoldier",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Fogman_Soldier"
 	},
@@ -3320,7 +3320,7 @@
 	},
 	{
 		"abr": "hiveprince",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Prince"
 	},
@@ -3332,7 +3332,7 @@
 	},
 	{
 		"abr": "hivesoldierdrone",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Soldier"
 	},
@@ -3344,7 +3344,7 @@
 	},
 	{
 		"abr": "hiveworkerdrone",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Worker"
 	},
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"abr": "orassan",
-		"price": 3167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Alien_Orassan"
 	},
@@ -3548,7 +3548,7 @@
 	},
 	{
 		"abr": "skeleton",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Skeleton"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "southernhiveprince",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Prince_Southern"
 	},
@@ -3572,7 +3572,7 @@
 	},
 	{
 		"abr": "southernhivesoldierdrone",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Soldier_Southern"
 	},
@@ -3584,7 +3584,7 @@
 	},
 	{
 		"abr": "southernhiveworkerdrone",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kenshi_Hiver_Worker_Southern"
 	},
@@ -3599,7 +3599,163 @@
 		"price": 333,
 		"category": "Prosthetic",
 		"defname": "WoodenAvaliLeg"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 3925,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "emptorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_EMP"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 675,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "heavycargoshuttle",
+		"price": 6292,
+		"category": "Furniture",
+		"defname": "HeavyShuttle"
+	},
+	{
+		"abr": "heavycargoshuttle(hovermode)",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "ShuttleHeavyRace"
+	},
+	{
+		"abr": "heavyevahelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmetHeavy"
+	},
+	{
+		"abr": "heavyevasuit",
+		"price": 4117,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBodyHeavy"
+	},
+	{
+		"abr": "high-explosivetorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "minimalshipbridge",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "personalshuttle",
+		"price": 1792,
+		"category": "Furniture",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "personalshuttle(hovermode)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "shipbridge",
+		"price": 1200,
+		"category": "Furniture",
+		"defname": "ShipPilotSeat"
+	},
+	{
+		"abr": "shipcapacitor",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "ShipCapacitorSmall"
+	},
+	{
+		"abr": "shipsalvage",
+		"price": 1758,
+		"category": "Special",
+		"defname": "ShipChunkSalvage"
+	},
+	{
+		"abr": "stellapede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Stellapede"
+	},
+	{
+		"abr": "survivalbelt",
+		"price": 178,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSurvivalBelt"
+	},
+	{
+		"abr": "uraniumfuelpod",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "ShuttleFuelPods"
+	},
+	{
+		"abr": "weathernormalizationdevice",
+		"price": 2000,
+		"category": "Artifacts",
+		"defname": "WeatherCancelDevice"
+	},
+	{
+		"abr": "yorkshireterrier",
+		"price": 167,
+		"category": "Animal",
+		"defname": "YorkshireTerrier"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Zeushammer"
 	}
 	],
-	"total": 602
+	"total": 626
 }
