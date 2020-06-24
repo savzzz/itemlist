@@ -48,10 +48,15 @@
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "bisexual",
+        "gay",
+        "straight",
+        "polyamorous"
+      ],
       "defName": "Asexual",
       "degree": 0,
-      "description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
+      "description": "{PAWN_nameDef} is uninterested in romantic entanglements.",
       "name": "asexual",
       "removePrice": 5500,
       "stats": []
@@ -76,10 +81,14 @@
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "asexual",
+        "gay",
+        "straight"
+      ],
       "defName": "Bisexual",
       "degree": 0,
-      "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
+      "description": "{PAWN_nameDef} is romantically attracted to people regardless of gender.",
       "name": "bisexual",
       "removePrice": 5500,
       "stats": []
@@ -311,7 +320,11 @@
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [],
+      "conflicts": [
+        "asexual",
+        "bisexual",
+        "straight"
+      ],
       "defName": "Gay",
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
@@ -1142,6 +1155,68 @@
       "degree": -1,
       "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "name": "xenophile",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "asexual",
+        "bisexual",
+        "gay"
+      ],
+      "defName": "Straight",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is romantically attracted to people of the opposite gender.",
+      "name": "straight",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "philanderer"
+      ],
+      "defName": "Faithful",
+      "degree": 0,
+      "description": "{PAWN_nameDef} will never cheat on a partner, no matter how bad the relationship gets.",
+      "name": "faithful",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "faithful"
+      ],
+      "defName": "Philanderer",
+      "degree": 0,
+      "description": "{PAWN_nameDef} just cannot be trusted to stay faithful to a partner.",
+      "name": "philanderer",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "asexual"
+      ],
+      "defName": "Polyamorous",
+      "degree": 0,
+      "description": "{PAWN_nameDef} prefers romantic relationships involving multiple partners to monogamous relationships. {PAWN_pronoun} doesn't mind if {PAWN_possessive} partners romance other people, but will be less happy in a restraining, monogamous relationship.",
+      "name": "polyamorous",
       "removePrice": 5500,
       "stats": []
     }
