@@ -126,13 +126,6 @@
     "userLevel": "UserLevel"
   },
   {
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "shortcut": false,
-    "usage": "!installedmods",
-    "userLevel": "UserLevel"
-  },
-  {
     "description": "A colony wide resurrector mech serum.",
     "name": "Revive all",
     "shortcut": true,
