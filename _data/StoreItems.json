@@ -3755,7 +3755,49 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "pentaroyalbed",
+		"price": 3617,
+		"category": "Furniture",
+		"defname": "PentaRoyalBed"
+	},
+	{
+		"abr": "quadrabed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "QuadBed"
+	},
+	{
+		"abr": "quadrabedroll",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "BedrollQuad"
+	},
+	{
+		"abr": "quadraroyalbed",
+		"price": 2900,
+		"category": "Furniture",
+		"defname": "QuadRoyalBed"
+	},
+	{
+		"abr": "triplebed",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "TripleBed"
+	},
+	{
+		"abr": "triplebedroll",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "BedrollTriple"
+	},
+	{
+		"abr": "tripleroyalbed",
+		"price": 2183,
+		"category": "Furniture",
+		"defname": "TripleRoyalBed"
 	}
 	],
-	"total": 626
+	"total": 633
 }
