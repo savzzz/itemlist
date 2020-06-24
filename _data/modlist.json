@@ -99,7 +99,7 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "0.4.1.0"
+    "version": "0.4.2.0"
   },
   {
     "author": "zymex",
@@ -147,7 +147,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.0.1.10"
+    "version": "2.0.2.0"
   },
   {
     "author": "notfood",
@@ -238,5 +238,35 @@
     "name": "Where is my weapon?",
     "steamId": "1539028008",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": "1467764609",
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon",
+    "steamId": "857350593",
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot - 1.1",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Meltup",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": "2008138191",
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[RF] Rational Romance (Continued)",
+    "steamId": "2013144996",
+    "version": "1.0.4.0"
   }
 ]
